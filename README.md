@@ -1,0 +1,2 @@
+# Inventory_Dashboard_HTML_CSS_javascript
+Inventory management Dashboard
